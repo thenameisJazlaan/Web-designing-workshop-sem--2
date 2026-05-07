@@ -1,0 +1,67 @@
+.card {
+  background-color: #dbdbdb;
+  padding: 40px;
+  border: 1px solid #999;
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.2);
+  width: 400px;
+  border-radius: 4px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #888;
+  background-color: #efefef;
+  display: block;
+}
+
+button {
+  background-color: #1a4314;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #245a1c;
+}
+
+.result-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.success-text {
+  color: #1a4314;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.user-box {
+  background-color: #c8d4c8;
+  padding: 20px;
+  border: 1px solid #aaa;
+  text-align: center;
+}
+
+.user-box h3 {
+  margin-top: 0;
+  font-size: 18px;
+}
+
+ul {
+  list-style-type: disc;
+  display: inline-block;
+  text-align: left;
+  padding-left: 20px;
+}
