@@ -6,7 +6,7 @@ justify-content:center;
 align-items:center;
 height:100vh;
 }
-
+/* Container for the content */
 .container{
 width:350px;
 padding:30px;
